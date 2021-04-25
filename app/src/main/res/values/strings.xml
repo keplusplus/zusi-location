@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZusiLocation</string>
+
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2UtZXN1ZG8iLCJhIjoiY2tuZDd4NWI0MGs2NTJub2F5a2Zia2JyOSJ9.5dUPMwfseZc3DY4b6pa8Fg</string>
+</resources>
